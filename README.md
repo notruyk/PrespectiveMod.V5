@@ -1,6 +1,6 @@
-# Perspective Mod v4
+# Perspective Mod v5
 
-A remake of [Perspective Mod v3 by canelex](https://github.com/Canelex/PerspectiveMod) with bug fixes and additional functionality
+A remake of [Perspective Mod v4 by canelex](https://github.com/Canelex/PerspectiveMod) with bug fixes and additional functionality
 
 [![Discord Link](https://img.shields.io/discord/767833575185580062?color=blueviolet&label=discord)](https://discord.gg/k8fnyEr)
 
