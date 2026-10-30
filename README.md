@@ -29,3 +29,5 @@ been disabled in clients, not just blocked mods), and it is well within
 Hypixel's rights to change the rules and take measures to enforce them.
 I strongly discourage creating or using versions of this mod or any other
 mod to bypass blacklists on any server.
+
+This is By-passed!.
